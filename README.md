@@ -31,10 +31,3 @@
 	2. 分組：
 		1. 列印remote log
 		2. 分享心得(final report PPT)
-
-
-
-
-
-
-
